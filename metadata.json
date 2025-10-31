@@ -1,0 +1,5 @@
+{
+  "name": "PicPrompt AI",
+  "description": "An intelligent AI application that analyzes any uploaded image and generates a detailed, artistic prompt suitable for AI image generators like DALL·E, Midjourney, or Stable Diffusion.",
+  "requestFramePermissions": []
+}
